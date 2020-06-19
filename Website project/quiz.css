@@ -1,0 +1,22 @@
+body {
+    margin-top: 50px;
+    background-image: url(images/michael-phelps.jpg);
+    background-size: cover;
+}
+
+.divmain {
+    margin: auto;
+    width: 900px;
+    padding: 20px 30px;
+    border: solid 5px blue;
+    border-radius: 10px;
+    background-color: rgb(173, 200, 230, 0.8);
+}
+
+.qgreen {
+    color: rgb(11, 224, 29);
+}
+
+.qred {
+    color: red;
+}

@@ -1,0 +1,31 @@
+body {
+    background-image: url(images/bs-1533837900-uajw6jdi3z-snap-image.jpg);
+    background-size: cover;
+}
+
+.maindiv {
+    height: 400PX;
+    width: 350px;
+    padding: 20px 30px;
+    border: solid 5px red;
+    border-radius: 10px;
+    background-color: rgba(230, 186, 173, 0.8);
+}
+
+.link {
+    color: tomato;
+}
+
+a:hover {
+    color: purple;
+}
+
+.div2016 {
+    margin-top: -450px;
+    margin-left: 1080px;
+    width: 370px;
+    padding: 20px 30px;
+    border: solid 5px red;
+    border-radius: 10px;
+    background-color: rgba(230, 186, 173, 0.8);
+}
